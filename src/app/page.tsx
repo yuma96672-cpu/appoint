@@ -59,6 +59,14 @@ export default function Home() {
             Documentation こんにちは
           </a>
         </div>
+        <div className="mt-8 flex w-full justify-center sm:justify-start">
+          <a
+            className="flex h-12 w-full items-center justify-center rounded-full bg-blue-600 px-5 text-white transition-colors hover:bg-blue-700 md:w-[158px]"
+            href="/tetris"
+          >
+            Play Tetris 🎮
+          </a>
+        </div>
       </main>
     </div>
   );
