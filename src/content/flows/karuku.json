@@ -1,0 +1,15 @@
+{
+    "title": "企業マッチング",
+    "comicImages": [
+        "/flows/karuku/page-01.jpg",
+        "/flows/karuku/page-02.jpg",
+        "/flows/karuku/page-03.jpg",
+        "/flows/karuku/page-04.jpg"
+    ],
+    "question": "漫画を読んで興味を持ちましたか？",
+    "yesLabel": "はい（TimeRexへ）",
+    "noLabel": "いいえ",
+    "timerexUrl": "https://timerex.net/s/takei_8256_dd6a/6cb3bb22",
+    "noMessageTitle": "ありがとうございました",
+    "noMessageBody": "またの機会をお待ちしております。"
+}
